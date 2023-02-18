@@ -20,7 +20,7 @@
 
 
 <a href="https://github.com/snlynnoo" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snlynnoo&theme=light&hide=jupyter%20notebook&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snlynnoo&theme=light&hide=jupyter%20notebook&langs_count=8" />
 </a>
 
 <a href="https://github.com/snlynnoo" target="_blank">
