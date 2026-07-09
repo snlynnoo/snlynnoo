@@ -6,18 +6,13 @@
 ![Profile Viewer Counter](https://komarev.com/ghpvc/?username=snlynnoo&color=brightgreen)
 <a href="https://www.kaggle.com/sainainglynnoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sainainglynnoo" height="20" width="30" /></a>
 
-- I'm from Myanmar 🇲🇲 and currently in Kuala Lumpur 🇲🇾.
+- I'm from Myanmar 🇲🇲 and currently studying in Germany 🇩🇪.
 
 - ⛷ **A Fast Learner** and a believer of **Lifelong Learning**.
 
-- 🚗 On a journay into the **Data Science World** and exploring in the fields of **Machine Learning, Business Analytics, AI and Web 3** to offer a **data-driven decision support** and  **challenging myself to gain insights from the data to solve problems**.
+- 📫 How to reach me: snlynnoo@gmail.com
 
-- 📫 How to reach me: snlynnoo@gmail.com, naing538@gmail.com
-
-- 😄 Pronouns: he/him
-
-- A proud father of three cats 🐈🐈🐈‍⬛
-
+- A proud father of two cats 🐈🐈‍⬛
 
 <a href="https://github.com/snlynnoo" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snlynnoo&theme=light&hide=jupyter%20notebook&langs_count=8" />
