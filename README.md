@@ -1,5 +1,4 @@
 <h2 align="left">Hi there ! 👋 I'm Sai Naing Lynn Oo 👨🏻‍💻</h2>
-<h3 align="left">Data Science and Business Analytics Master's Student who is aspring to become a Data Scientist.</h3>
 
 [![Linkedin: Sai Naing Lynn Oo](https://img.shields.io/badge/-SaiNaingLynnOo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/snlynnoo/)](https://www.linkedin.com/in/snlynnoo/)
 [![GitHub snlynnoo](https://img.shields.io/github/followers/snlynnoo?label=follow&style=social)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)
